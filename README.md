@@ -51,6 +51,11 @@ A simple and stylish to-do list app. Users can add new tasks, mark them as compl
 
 • Uses localStorage to save and restore tasks.
 
+📄 License
+
+This project is open source. You are free to use and modify it as you like.
+
+
 /TR
 
 📝 To-Do List App
@@ -108,6 +113,9 @@ Basit ama şık bir yapılacaklar listesi uygulaması. Kullanıcılar yeni göre
 
 • Sayfa yenilendiğinde görevler otomatik olarak geri yüklenir.
 
+📄 Lisans
+
+Bu proje açık kaynaklıdır. Dilediğin gibi kullanabilir veya geliştirebilirsin.
 
 
 
