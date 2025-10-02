@@ -39,7 +39,7 @@ A simple and stylish to-do list app. Users can add new tasks, mark them as compl
 
 1. Clone the repo:
 
-   git clone https://github.com/simukiju/to-do-list-app.git
+   git clone https://github.com/simukiju/to-do-list.git
 
 2. Open index.html in your browser.
 
@@ -99,7 +99,7 @@ Basit ama şık bir yapılacaklar listesi uygulaması. Kullanıcılar yeni göre
 
 1. Projeyi bilgisayarına indir:
 
-   git clone https://github.com/simukiju/to-do-list-app.git
+   git clone https://github.com/simukiju/to-do-list.git
 
 2. index.html dosyasını tarayıcında aç.
 
